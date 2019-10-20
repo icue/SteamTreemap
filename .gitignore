@@ -1,0 +1,6 @@
+/__pycache__/
+/build/
+/dist/
+content.html
+*_output.html
+*.spec
